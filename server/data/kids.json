@@ -1,0 +1,134 @@
+[
+    {
+        "id": "d-001",
+        "name": "Конструктор LEGO City 60388",
+        "price": 59.99,
+        "inStock": true
+    },
+    {
+        "id": "d-002",
+        "name": "Интерактивная кукла Baby Alive",
+        "price": 44.99,
+        "inStock": true
+    },
+    {
+        "id": "d-003",
+        "name": "Радиоуправляемая машинка Traxxas Rustler",
+        "price": 129.99,
+        "inStock": false
+    },
+    {
+        "id": "d-004",
+        "name": "Детский планшет Amazon Fire HD 8 Kids",
+        "price": 149.99,
+        "inStock": true
+    },
+    {
+        "id": "d-005",
+        "name": "Мягкая игрушка Squishmallows 50 см",
+        "price": 24.99,
+        "inStock": true
+    },
+    {
+        "id": "d-006",
+        "name": "Набор LEGO Technic Bugatti Chiron",
+        "price": 349.99,
+        "inStock": true
+    },
+    {
+        "id": "d-007",
+        "name": "Детская кухня игровая KidKraft Uptown",
+        "price": 199.99,
+        "inStock": false
+    },
+    {
+        "id": "d-008",
+        "name": "Самокат Micro Maxi Deluxe",
+        "price": 119.99,
+        "inStock": true
+    },
+    {
+        "id": "d-009",
+        "name": "Игровая консоль Nintendo Switch Lite",
+        "price": 199.99,
+        "inStock": true
+    },
+    {
+        "id": "d-010",
+        "name": "Набор для рисования Crayola Ultimate",
+        "price": 34.99,
+        "inStock": true
+    },
+    {
+        "id": "d-011",
+        "name": "Железная дорога Brio World Deluxe",
+        "price": 149.99,
+        "inStock": false
+    },
+    {
+        "id": "d-012",
+        "name": "Кукольный домик Barbie Dreamhouse",
+        "price": 199.99,
+        "inStock": true
+    },
+    {
+        "id": "d-013",
+        "name": "Детский велосипед Strider Sport 14x",
+        "price": 169.99,
+        "inStock": true
+    },
+    {
+        "id": "d-014",
+        "name": "Набор Play-Doh Ultimate Color Collection",
+        "price": 29.99,
+        "inStock": true
+    },
+    {
+        "id": "d-015",
+        "name": "Детский микроскоп National Geographic",
+        "price": 54.99,
+        "inStock": false
+    },
+    {
+        "id": "d-016",
+        "name": "Интерактивный глобус Oregon Scientific",
+        "price": 79.99,
+        "inStock": true
+    },
+    {
+        "id": "d-017",
+        "name": "Конструктор Magformers 62 деталей",
+        "price": 89.99,
+        "inStock": true
+    },
+    {
+        "id": "d-018",
+        "name": "Набор Hot Wheels Ultimate Garage",
+        "price": 99.99,
+        "inStock": false
+    },
+    {
+        "id": "d-019",
+        "name": "Детские наушники JBL JR310BT",
+        "price": 39.99,
+        "inStock": true
+    },
+    {
+        "id": "d-020",
+        "name": "Настольная игра Monopoly Classic",
+        "price": 29.99,
+        "inStock": true
+    },
+    {
+        "id": "d-021",
+        "name": "Пазл Ravensburger 1000 деталей «Мир»",
+        "price": 19.99,
+        "inStock": true
+    },
+    {
+        "id": "d-022",
+        "name": "Робот-игрушка Sphero Mini",
+        "price": 49.99,
+        "inStock": false
+    }
+]

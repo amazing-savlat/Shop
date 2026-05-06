@@ -1,0 +1,134 @@
+[
+    {
+        "id": "s-001",
+        "name": "Коврик для йоги Manduka PRO 6mm",
+        "price": 120.00,
+        "inStock": true
+    },
+    {
+        "id": "s-002",
+        "name": "Гантели разборные 20 кг Bowflex SelectTech",
+        "price": 299.99,
+        "inStock": false
+    },
+    {
+        "id": "s-003",
+        "name": "Велосипедный шлем Giro Syntax MIPS",
+        "price": 89.99,
+        "inStock": true
+    },
+    {
+        "id": "s-004",
+        "name": "Фитнес-резинки набор 5 шт. Fit Simplify",
+        "price": 19.99,
+        "inStock": true
+    },
+    {
+        "id": "s-005",
+        "name": "Беговые кроссовки Nike Air Zoom Pegasus 40",
+        "price": 130.00,
+        "inStock": false
+    },
+    {
+        "id": "s-006",
+        "name": "Штанга олимпийская 20 кг Rogue Ohio Bar",
+        "price": 349.99,
+        "inStock": true
+    },
+    {
+        "id": "s-007",
+        "name": "Велотренажёр Peloton Bike+",
+        "price": 2499.00,
+        "inStock": true
+    },
+    {
+        "id": "s-008",
+        "name": "Скакалка для кроссфита WOD Nation Speed",
+        "price": 24.99,
+        "inStock": true
+    },
+    {
+        "id": "s-009",
+        "name": "Боксёрские перчатки Everlast Pro Style",
+        "price": 59.99,
+        "inStock": true
+    },
+    {
+        "id": "s-010",
+        "name": "Беговая дорожка NordicTrack Commercial 1750",
+        "price": 1999.99,
+        "inStock": false
+    },
+    {
+        "id": "s-011",
+        "name": "Горный велосипед Trek Marlin 7",
+        "price": 849.99,
+        "inStock": true
+    },
+    {
+        "id": "s-012",
+        "name": "Гиря чугунная 24 кг Kettlebell Kings",
+        "price": 79.99,
+        "inStock": true
+    },
+    {
+        "id": "s-013",
+        "name": "Лыжи горные Rossignol Experience 86",
+        "price": 599.99,
+        "inStock": false
+    },
+    {
+        "id": "s-014",
+        "name": "Плавательные очки Speedo Fastskin Hyper Elite",
+        "price": 49.99,
+        "inStock": true
+    },
+    {
+        "id": "s-015",
+        "name": "Тренировочный мяч Nike Premier League",
+        "price": 34.99,
+        "inStock": true
+    },
+    {
+        "id": "s-016",
+        "name": "Рюкзак для похода Osprey Atmos AG 65",
+        "price": 289.99,
+        "inStock": true
+    },
+    {
+        "id": "s-017",
+        "name": "Теннисная ракетка Wilson Blade 98",
+        "price": 229.99,
+        "inStock": false
+    },
+    {
+        "id": "s-018",
+        "name": "Спортивная бутылка Hydro Flask 32 oz",
+        "price": 44.99,
+        "inStock": true
+    },
+    {
+        "id": "s-019",
+        "name": "Налобный фонарь Black Diamond Spot 400",
+        "price": 39.99,
+        "inStock": true
+    },
+    {
+        "id": "s-020",
+        "name": "Фитнес-перчатки Harbinger Pro WrisWrap",
+        "price": 29.99,
+        "inStock": true
+    },
+    {
+        "id": "s-021",
+        "name": "Эллиптический тренажёр Sole E35",
+        "price": 1299.99,
+        "inStock": false
+    },
+    {
+        "id": "s-022",
+        "name": "Спортивный GPS-навигатор Garmin Forerunner 965",
+        "price": 599.99,
+        "inStock": true
+    }
+]

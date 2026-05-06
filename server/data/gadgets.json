@@ -1,0 +1,134 @@
+[
+    {
+        "id": "g-001",
+        "name": "Беспроводные наушники Sony WH-1000XM5",
+        "price": 349.99,
+        "inStock": true
+    },
+    {
+        "id": "g-002",
+        "name": "Смарт-часы Apple Watch Series 9",
+        "price": 399.00,
+        "inStock": true
+    },
+    {
+        "id": "g-003",
+        "name": "Портативная колонка JBL Charge 5",
+        "price": 179.99,
+        "inStock": false
+    },
+    {
+        "id": "g-004",
+        "name": "Электронная книга Kindle Paperwhite",
+        "price": 139.99,
+        "inStock": true
+    },
+    {
+        "id": "g-005",
+        "name": "Экшн-камера GoPro Hero 12",
+        "price": 399.99,
+        "inStock": false
+    },
+    {
+        "id": "g-006",
+        "name": "Планшет iPad Air 11 M2",
+        "price": 599.00,
+        "inStock": true
+    },
+    {
+        "id": "g-007",
+        "name": "Смартфон Samsung Galaxy S24 Ultra",
+        "price": 1299.99,
+        "inStock": true
+    },
+    {
+        "id": "g-008",
+        "name": "Ноутбук Apple MacBook Air M3",
+        "price": 1099.00,
+        "inStock": true
+    },
+    {
+        "id": "g-009",
+        "name": "Беспроводная зарядка Anker MagSafe 15W",
+        "price": 39.99,
+        "inStock": true
+    },
+    {
+        "id": "g-010",
+        "name": "Робот-пылесос Roomba j9+",
+        "price": 699.99,
+        "inStock": false
+    },
+    {
+        "id": "g-011",
+        "name": "Умная колонка Amazon Echo Dot 5",
+        "price": 49.99,
+        "inStock": true
+    },
+    {
+        "id": "g-012",
+        "name": "Фитнес-браслет Xiaomi Smart Band 8",
+        "price": 49.99,
+        "inStock": true
+    },
+    {
+        "id": "g-013",
+        "name": "Веб-камера Logitech StreamCam",
+        "price": 169.99,
+        "inStock": false
+    },
+    {
+        "id": "g-014",
+        "name": "Игровая мышь Razer DeathAdder V3",
+        "price": 89.99,
+        "inStock": true
+    },
+    {
+        "id": "g-015",
+        "name": "Механическая клавиатура Keychron Q1",
+        "price": 169.00,
+        "inStock": true
+    },
+    {
+        "id": "g-016",
+        "name": "Монитор LG UltraWide 34\" 4K",
+        "price": 799.99,
+        "inStock": false
+    },
+    {
+        "id": "g-017",
+        "name": "Внешний SSD Samsung T7 1TB",
+        "price": 89.99,
+        "inStock": true
+    },
+    {
+        "id": "g-018",
+        "name": "Дрон DJI Mini 4 Pro",
+        "price": 759.00,
+        "inStock": true
+    },
+    {
+        "id": "g-019",
+        "name": "VR-гарнитура Meta Quest 3",
+        "price": 499.99,
+        "inStock": false
+    },
+    {
+        "id": "g-020",
+        "name": "Умный термостат Nest Learning",
+        "price": 249.99,
+        "inStock": true
+    },
+    {
+        "id": "g-021",
+        "name": "Портативный проектор Anker Nebula Capsule 3",
+        "price": 499.99,
+        "inStock": true
+    },
+    {
+        "id": "g-022",
+        "name": "TWS-наушники Apple AirPods Pro 2",
+        "price": 249.00,
+        "inStock": true
+    }
+]
